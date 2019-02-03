@@ -4,4 +4,4 @@
 
 Branch Name  | Description   | Links
 ------------ | ------------- | ----------
-adding-readme | This branch is created for writing README file and will be updated for every later | *N/A*
+adding-readme | This branch is created for writing README file and will be updated for every branch as and when it's created | *N/A*
