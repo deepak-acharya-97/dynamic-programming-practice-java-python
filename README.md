@@ -9,3 +9,4 @@ Branch Name  | Description   | Links
 **number-of-ways-to-get-sum** | The number of ways to get sum equal to x by using only `1, 3 and 5` | [Click Here](https://www.geeksforgeeks.org/solve-dynamic-programming-problem/)
 **ugly-number** | Finding nth ugly number *(Ugly numbers are numbers whose only prime factors are `2, 3 or 5`.)* | [Click Here](https://www.geeksforgeeks.org/ugly-numbers/)
 **fibonacii-series** | Finding nth fibonacii number _(Implemented different algorithms of optimization)_ | [Click Here](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
+**catalan-number** | Count the number of expressions containing n pairs of parentheses which are correctly matched. For n = 3, possible expressions are `((())), ()(()), ()()(), (())(), (()())`. | [Click Here](https://www.geeksforgeeks.org/program-nth-catalan-number/)
