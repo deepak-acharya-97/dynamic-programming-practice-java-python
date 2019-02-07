@@ -10,3 +10,4 @@ Branch Name  | Description   | Links
 **ugly-number** | Finding nth ugly number *(Ugly numbers are numbers whose only prime factors are `2, 3 or 5`.)* | [Click Here](https://www.geeksforgeeks.org/ugly-numbers/)
 **fibonacii-series** | Finding nth fibonacii number _(Implemented different algorithms of optimization)_ | [Click Here](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
 **catalan-number** | Count the number of expressions containing n pairs of parentheses which are correctly matched. For n = 3, possible expressions are `((())), ()(()), ()()(), (())(), (()())`. | [Click Here](https://www.geeksforgeeks.org/program-nth-catalan-number/)
+**rod-cutting** | Given a rod of length n inches and an array of prices that contains prices of all pieces of size smaller than n. Determine the maximum value obtainable by cutting up the rod and selling the pieces. | [Click Here](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/)
