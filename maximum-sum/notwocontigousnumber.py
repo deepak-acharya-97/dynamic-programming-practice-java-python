@@ -9,8 +9,10 @@ def maxSumWithNoContiguousNumbers(array):
     for ind in range(2, length):
         sumTilIMinusOne=M[ind-1]
         if(sumTilIMinusOne>M[ind-2]+array[ind]):
-            M[i]=sumTilIMinusOne
+            M[ind]=sumTilIMinusOne
         else:
-            M[i]=M[i-2]+array[ind]
+            M[ind]=M[ind-2]+array[ind]
     return M[length-1]
-    
+
+A=[-2,3,-16,100,-4,5]
+print(maxSumWithNoContiguousNumbers(A))
